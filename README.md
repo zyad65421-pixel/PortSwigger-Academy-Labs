@@ -16,7 +16,7 @@ I have successfully exploited various SQLi scenarios, ranging from basic data re
     * ✅ Blind SQLi (Conditional Responses & Time Delays).
 
 #### 📸 SQLi Lab Progress & Evidence:
-![SQLi Labs Status](image.png)
+![SQLi Labs Status](SQL%20injection.png)
 
 ---
 
