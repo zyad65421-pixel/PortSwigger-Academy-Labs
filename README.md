@@ -1,21 +1,21 @@
-# 🛡️ PortSwigger Academy - Offensive Security Journey
+# 🛡️ PortSwigger Academy - Offensive Security Lab Journey 🚀
 
-Welcome to my security research repository! This project documents my hands-on experience with Web Security vulnerabilities through **PortSwigger Academy** 🎓.
+Welcome to my advanced security research repository! 👨‍💻 This project documents my hands-on experience and technical mastery in exploiting Web Security vulnerabilities through **PortSwigger Academy** 🎓.
 
 ---
 
-## 🏗️ Vulnerabilities Explored:
+## 🏗️ Vulnerabilities Explored & Mastered:
 
-### 1️⃣ SQL Injection (SQLi) 💉
-I have successfully exploited various SQLi scenarios, ranging from basic data retrieval to advanced **Blind SQL Injection** with conditional responses.
+### 1️⃣ SQL Injection (SQLi) 💉 🧬
+> Exploiting the database layer to bypass security and exfiltrate sensitive data.
 
-* **Skills Covered:**
-    * ✅ Authentication Bypass via SQLi.
-    * ✅ Data Exfiltration using UNION-based attacks.
-    * ✅ Database Version Discovery (Oracle, MySQL, Microsoft).
-    * ✅ Blind SQLi (Conditional Responses & Time Delays).
+* **🛠️ Techniques & Skills:**
+    * 🔑 **Authentication Bypass:** Gaining unauthorized access.
+    * 🧪 **UNION-based Attacks:** Retrieving data from multiple tables.
+    * 🕵️‍♂️ **Blind SQLi:** Leveraging conditional responses and time delays.
+    * 💾 **Database Discovery:** Fingerprinting Oracle, MySQL, and MSSQL.
 
-#### 📸 SQLi Lab Progress & Evidence:
+#### 📸 Evidence:
 ![SQLi Labs Status](SQL%20injection.png)
 
 ---
@@ -35,15 +35,40 @@ Focused on executing malicious scripts in the victim's browser. This section cov
 
 **Beginner to Intermediate Challenges:**
 ![XSS Easy Labs](xss%20easy.png)
+
 ---
 
-## 🛠️ Tools Used:
-* **Burp Suite Professional/Community** 🛸
-* **Browser Developer Tools** 🛠️
-* **Custom Payloads & Cheat Sheets** 📝
+### 3️⃣ Path Traversal (Directory Traversal) 📂 🔓
+> Bypassing file system restrictions to access unauthorized server files.
+
+* **🛠️ Techniques & Skills:**
+    * 📂 **File Access:** Reading `/etc/passwd` and internal config files.
+    * 🛡️ **Filter Bypassing:** Evading absolute path blocks.
+    * 🛠️ **Advanced Payloads:** Using Null Byte `%00` and URL encoding.
+    * ✅ **Validation Bypass:** Overcoming "Start of Path" restrictions.
+
+#### 📸 Evidence:
+![Path Traversal Status](Path%20traversal.png)
+
+---
+
+## 🛠️ Cyber Toolset:
+| Tool | Purpose | Status |
+| :--- | :--- | :---: |
+| **Burp Suite Pro/Community** 🛸 | Intercepting & Modifying Traffic | ✅ |
+| **FoxyProxy** 🦊 | Quick Proxy Management | ✅ |
+| **Browser DevTools** 🛠️ | DOM & Network Analysis | ✅ |
+| **Custom Payloads** 📝 | Manual Exploit Development | ✅ |
+
+---
+
+## 🎓 Professional Outcomes:
+* ✅ Mastered **Manual Exploitation** techniques.
+* ✅ Deep understanding of **OWASP Top 10** vulnerabilities.
+* ✅ Enhanced ability to perform **Web Application Pentesting**.
 
 ---
 
 <p align="center">
-  <em>"The more you sweat in training, the less you bleed in battle."</em> 🛡️
+  <strong>"The more you sweat in training, the less you bleed in battle."</strong> 🛡️🔥
 </p>
