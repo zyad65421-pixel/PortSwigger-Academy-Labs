@@ -36,6 +36,7 @@ Focused on executing malicious scripts in the victim's browser. This section cov
 
 **Beginner to Intermediate Challenges:**
 ![XSS Easy Labs](xss%20easy.png)
+
 ---
 
 ### 3️⃣ Path Traversal 📂 🔓 📁
