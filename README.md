@@ -30,9 +30,11 @@ Focused on executing malicious scripts in the victim's browser. This section cov
     * 🛡️ **WAF Bypass:** Using encoding and obfuscation to bypass security filters.
 
 #### 📸 XSS Lab Progress & Evidence:
-> *Add your XSS labs screenshot here once completed!* 🚀
-> `![XSS Labs Status](your_xss_image_name.png)`
+**General XSS Mastery:**
+![XSS Labs Status](xss.png)
 
+**Beginner to Intermediate Challenges:**
+![XSS Easy Labs](xss%20easy.png)
 ---
 
 ## 🛠️ Tools Used:
